@@ -15,7 +15,7 @@ _[Remix IDE website](https://remix.ethereum.org/)_ - This is where we build and 
 
 ## Usage 
 
-The contract is the joint_savings.sol file in this repository. Open the remix ide webpage and then compile/deploy the contract.
+The contract is the joint_savings.sol file in this repository. Open the remix ide webpage and then compile/deploy the contract. See the images below for a few examples, or checkout the Execution_Results folder to see more images.
 
 
 * First: Set the two accounts.
